@@ -59,8 +59,8 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * \<center\>\<img src="\~" width="\~", height="\~"\>\</center\>
 * 예시 : \<center\>\<img src="img/teemo.png" width="150" height="150"\>\</center\>
 
-<p style="text-align:center">This line will be centered.<br>
-And so will this line.</p>
+<div style="text-align:center">This text will be centered.
+<p>So will this paragraph.</p></div>
 
 <center>
   <img src="img/teemo.png" width="150" height="150">
