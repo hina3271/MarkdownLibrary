@@ -66,3 +66,19 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * 예시 : \[Google\](http://www.google.com)
 
 [Google](http://www.google.com)
+
+## Code Block 코드 블럭
+
+* 인라인 코드는 텍스트를 앞뒤로 \'''를 감싸주면 됨
+* \''' 옆에 언어를 지정할 시 syntax color 적용
+
+## Check Lists 체크 리스트
+
+* 줄 앞에 - \[x]를 써서 완료된 리스트 표시
+* 줄 앞에 - \[]를 써서 미완료된 리스트 표시
+
+## Table 테이블
+
+* 헤더와 셀을 구분할때 3개 이상의 \- 기호(hyphen/dash)가 필요
+* 헤더와 셀을 구분하면서 \: 기호(colons)로 셀 안에 내용을 정렬할 수 있음
+* 가장 좌측과 우측의 |기호는 생략 
