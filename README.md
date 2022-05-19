@@ -62,6 +62,7 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 
 ## Links (Anchor) 링크
 
-* \[링크 이름]\(URL)
+* \[링크가 표시될 이름]\(URL)
+* 예시 : \[Google\](http://www.google.com)
 
-[Google](http://www.google.com "구글")
+[Google](http://www.google.com)
