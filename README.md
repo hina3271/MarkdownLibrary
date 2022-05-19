@@ -61,12 +61,9 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 
 \<img src="teemo.png width="480" height="360"/>
 
-\<br><
+\[caption detail : 300px]\(img/teemo.png)
 
-* \<br\\><>b
-* &#x20;**aa**&#x20;
-* \<sub> dd \</sub>
 
-\<sub> sddd\</sub>
 
-\<sup> this ps \</sup>
+*
+  * s
