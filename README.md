@@ -59,4 +59,4 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * \<center>\<img src="\~" width="\~", height="\~">\</center>
 * 예시 : \<center>\<img src="img/teemo.png" width="150" height="150">\</center>
 
-<center><img src="img/teemo.png" width="150" height="150"></center>
+<p align="center"><img src="img/teemo.png" width="150" height="150"></p>
