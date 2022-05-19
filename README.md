@@ -54,5 +54,6 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * 인라인 이미지 !\[alt text]\(/test)
 * 링크 이미지 !\[alt text]\(image\_URL)
 * 이미지 사이즈 변경 \<img width="OOOpx" height="OOOpx">\</img>
-<img src".gitbook/assets/teemo.png" width="150" height="150">
+
+<img src=".gitbook/assets/teemo.png" width="150" height="150">
 ![test](.gitbook/assets/teemo.png){:width="150" height="150"}
