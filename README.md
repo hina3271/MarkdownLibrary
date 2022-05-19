@@ -58,7 +58,10 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * html 형식 시 아래와 같이 속성을 적용하면 이미지 정렬 가능: \<center\>, \<left\>, \<right\>
 * \<center\>\<img src="\~" width="\~", height="\~"\>\</center\>
 * 예시 : \<center\>\<img src="img/teemo.png" width="150" height="150"\>\</center\>
-
+.center {
+  display: block,
+  margin: auto,
+}
 <center>
   <img src="img/teemo.png" width="150" height="150">
 </center>
