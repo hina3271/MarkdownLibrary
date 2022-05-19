@@ -57,5 +57,6 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * html 형식 시 이미지 사이즈 변경 가능 \<img src="경로 및 파일 이름" width="OOOpx" height="OOOpx
 * html 형식 시 아래와 같이 속성을 적용하면 이미지 정렬 가능: \<center\>, \<left\>, \<right\>
 * \<center\>\<img src="\~" width="\~", height="\~"\>\</center\>
+* 예시 : \<center\>\<img src="img/teemo.png" width="150" height="150"\>\</center\>
 
-<img src="img/teemo.png" width="150" height="150">
+<center><img src="img/teemo.png" width="150" height="150"></center>
