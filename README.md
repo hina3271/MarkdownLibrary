@@ -51,8 +51,9 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 
 ## Image 이미지
 
-* 인라인 이미지 !\[alt text]\(/test)
-* 링크 이미지 !\[alt text]\(image\_URL)
+* 인라인 이미지 ![이미지 이름]\(/경로 및 파일 이름 ex).img/teemo.png)
+* html 형식 \<img src="경로 및 파일 이름"\>
+* 링크 이미지 !\[alt text]\(image\URL경로)
 * 이미지 사이즈 변경 \<img width="OOOpx" height="OOOpx">\</img>
 
 <img src=".gitbook/assets/teemo.png" width="150" height="150">
