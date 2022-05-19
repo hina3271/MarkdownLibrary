@@ -55,17 +55,6 @@ description: Source:https://inpa.tistory.com/entry/MarkDown
 * 링크 이미지 !\[alt text]\(image\_URL)
 * 이미지 사이즈 변경 \<img width="OOOpx" height="OOOpx">\</img>
 
-![test](./img/teemo.png=192x102)
 
-![test](/img/teemo.png)
+![test](/img/teemo.png=480x240)
 
-
-
-
-* \<br\\><>b
-* &#x20;**aa**&#x20;
-* \<sub> dd \</sub>
-
-\<sub> sddd\</sub>
-
-\<sup> this ps \</sup>
