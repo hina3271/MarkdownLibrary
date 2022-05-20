@@ -1,6 +1,7 @@
 ---
 description: https://www.codecogs.com/latex/eqneditor.php
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.css">
 
 # Mathmatical Expression
 
@@ -36,7 +37,7 @@ ___
 | Single arrow braket 홑화살괄호 | \left< A \right>               | $$\left< A \right>$$               |
 | Absolute value 절대값          | \left\\\| A \right\\\|         | $$\left\| A \right\|$$             |
 | Norm 노름                      | \left\\\\\| A \right\\\\\|     | $$\left\\| A \right \\|$$          |
-| Floor                          | \left \lfloor A \right \rfloor | $\left \lfloor A \right \rfloor$ |
+| Floor                          | \left \lfloor A \right \rfloor | $$\left \lfloor A \right \rfloor$$ |
 | ceil                           | \left \lceil A \right \rceil   | $$\left \lceil A \right \rceil$$   |
 
 ___
