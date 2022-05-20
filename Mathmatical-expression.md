@@ -1,7 +1,6 @@
 ---
-description: https://www.codecogs.com/latex/eqneditor.php
+description: https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.css">
 
 # Mathmatical Expression
 
@@ -10,6 +9,7 @@ description: https://www.codecogs.com/latex/eqneditor.php
 ___
 
 ## Font 글씨체
+
 
 | 항목                          | 문법                  | 보기                      |
 | ----------------------------- | --------------------- | ------------------------- |
@@ -27,7 +27,9 @@ ___
 
 ___
 
-## 괄호
+## Brakets 괄호
+
+### [Brakets](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Brackets)
 
 | 항목                           | 문법                           | 보기                               |
 | ------------------------------ | ------------------------------ | ---------------------------------- |
@@ -37,63 +39,88 @@ ___
 | Single arrow braket 홑화살괄호 | \left< A \right>               | $$\left< A \right>$$               |
 | Absolute value 절대값          | \left\\\| A \right\\\|         | $$\left\| A \right\|$$             |
 | Norm 노름                      | \left\\\\\| A \right\\\\\|     | $$\left\\| A \right \\|$$          |
-| Floor                          | \left \lfloor A \right \rfloor | $$\left \lfloor A \right \rfloor$$ |
-| ceil                           | \left \lceil A \right \rceil   | $$\left \lceil A \right \rceil$$   |
+| Floor function                         | \left \lfloor A \right \rfloor | $$\left \lfloor A \right \rfloor$$ |
+| ceil  function                 | \left \lceil A \right \rceil   | $$\left \lceil A \right \rceil$$   |
 
 ___
 
-## Operations 연산
+## Operators 연산자
 
-| 항목                  | 문법                 | 보기                     |
-| --------------------- | -------------------- | ------------------------ |
-| inner product 내적    | \vec{a}\cdot\vec{b}  | $$\vec{a}\cdot\vec{b}$$  |
-| outer product 외적    | \vec{a}\times\vec{b} | $$\vec{a}\times\vec{b}$$ |
-| tensor product 텐서곱 | A\otimes B           | $$A\otimes B$$           |
-| convolution 합성곱    | A\ast B              | $$A\ast B$$              |
-| division 나누기       | x \div y             | $$x\div y$$              |
-| 이외의 연산자         | A\oplus B            | $$A\oplus B$$            |
-|                       | A\ominus B           | $$A\ominus B$$           |
-|                       | A\odot B             | $$A\odot B$$             |
+### [Arithmetic operators](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Arithmetic_operators)
 
-___
-
-## 첨자
-
-| 항목               | 문법 | 보기    |
-| ------------------ | ---- | ------- |
-| Superscript 윗첨자 | A^2  | $$A^2$$ |
-| Subscript 아래첨자 | A_2  | $$A_2$$ |
-|                    |
+| 항목                                   | 문법                     | 보기                         |
+| -------------------------------------- | ------------------------ | ---------------------------- |
+| multiplication <br>inner product 내적  | \vec{a}\cdot\vec{b}      | $$\vec{a}\cdot\vec{b}$$      |
+| multiplication <br> outer product 외적 | \vec{a}\times\vec{b}     | $$\vec{a}\times\vec{b}$$     |
+| tensor product 텐서곱                  | A\otimes B               | $$A\otimes B$$               |
+| direct sum                             | A\oplus B                | $$A\oplus B$$                |
+| Hadamard product of power series       | A\odot B                 | $$A\odot B$$                 |
+| convolution 합성곱                     | A\ast B                  | $$A\ast B$$                  |
+| division 나누기                        | x \div y <br>x / y       | $$x\div y$$ $x / y$          |
+| plus-minus sign                        | \pm A                    | $\pm A$                      |
+| minus-plus sign                        | \mp A                    | $\mp A$                      |
+| square root <br> without overline      | \sqrt{ABC} <br> \surd{A} | $\sqrt {ABC}$ <br>$\surd{A}$ |
 
 ___
 
-## 비교 기호
+## Equality, equivalence and similarity
 
-| 항목               | 문법                           | 보기                               |
-| ------------------ | ------------------------------ | ---------------------------------- |
-| Equal 상등         | A = B                          | $$A = B$$                          |
-| Equivalent 동등    | A \ne B                        | $$A\ne B$$                         |
-| Not equal          | A \equiv B                     | $$A\equiv B$$                      |
-| Not Equivalent     | A \not\equiv                   | $$A\not\equiv B$$                  |
-| Inequaility 부등호 | <, \lt, \le, \leq, \ll         | $$<,\lt,\le,\leq,\ll$$             |
-|                    | >, \gt, \ge, \geq, \gg         | $$>,\gt,\ge,\geq,\gg$$             |
-|                    | \prec, \preceq, \succ, \succeq | $$\prec, \preceq, \succ, \succeq$$ |
+### [Equality, equivalence and similarity](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Equality,_equivalence_and_similarity)
+
+| 항목               | 문법                       | 보기                       |
+| ------------------ | -------------------------- | -------------------------- |
+| Equal          | A = B                                   | $$A = B$$                                   |
+| Equivalent     | A \ne B                                 | $$A\ne B$$                                  |
+| Not equal      | A \equiv B                              | $$A\equiv B$$                               |
+| Not Equivalent | A \not\equiv                            | $$A\not\equiv B$$                           |
+| Approximation  | A \approx B                | $$A\approx B$$             |
+| Similar       | A \sim B  <br>  A \simeq B | $$A\sim B$$  $$A\simeq B$$ |
 
 ___
 
-## Relationship symbols 관계 기호
+## Comparison
 
-| 항목               | 문법               | 보기                  |
-| ------------------ | ------------------ | --------------------- |
-| Approximation 근사 | A \approx B        | $$A\approx B$$        |
-| Similar 동류       | A \sim B           | $$A\sim B$$           |
-|                    | A \simeq B         | $$A\simeq B$$         |
-| Proportional 비례  | A \propto B        | $$A\propto B$$        |
-| Parallel 평행      | A \parallel B      | $$A\parallel B$$      |
-| Perpendicular 수직 | A \perp B, A\bot B | $$A\perp B, A\bot B$$ |
+### [Comparision sign](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Comparison)
 
-## Logical symbols 논리 기호
+| 항목           | 문법                                    | 보기                                        |
+| -------------- | --------------------------------------- | ------------------------------------------- |
+| Inequaility    | <<br> \lt<br> \le<br> \leq<br> \ll      | $$<$$$$\lt$$$$\le$$ $$\leq$$ $$\ll$$        |
+|                | ><br> \gt<br> \ge<br> \geq<br> \gg      | $$<$$$$\gt$$$$\ge$$ $$\geq$$ $$\gg$$        |
+| Order          | \prec<br> \preceq<br> \succ<br> \succeq | $$\prec$$ $$\preceq$$ $$\succ$$ $$\succeq$$ |
 
-| 항목 | 문법 | 보기 |
-| ---- | ---- | ---- |
-and
+
+___
+
+### [Set theory](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Set_theory)
+
+| 항목           | 문법                                    | 보기                                        |
+| -------------- | --------------------------------------- | ------------------------------------------- |
+Empty set | \empty | $\empty$
+Number of elements | \\#| $\#$
+Belongs to | \in|$\in$
+Does not belong to | \notin | $\notin$
+Contains as member | \ni | $\ni$
+Does not contain as member | \notni | $\notni$
+Set inclusion | |$\subset$
+
+
+
+___
+
+### [Logical symbol Wikipedia](https://en.wikipedia.org/wiki/List_of_logic_symbols)
+
+| 항목                                 | 문법                                                    | 보기                                                        |
+| ------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------------- |
+| implication                          | \Rightarrow<br> \to<br> \supset<br> \implies            | $$\Rightarrow$$ $$\to$$ $$\supset$$ $$\implies$$            |
+| equivalence                          | \Leftrightarrow <br> \leftrightarrow<br>\equiv <br>\iff | $$\Leftrightarrow$$ $$\leftrightarrow$$ $$\equiv$$ $$\iff$$ |
+| negation                             | \lnot <br>\sim                                          | $$\lnot$$$$\sim$$                                           |
+| logical conjunction (and)            | \land<br> \\&                                           | $$\land$$ $$\&$$                                            |
+| logical (inclusive) disjunction (or) | \lor                                                    | $$\lor$$                                                    |
+| contradiction                        | \bot                                                    | $$\bot$$                                                    |
+| For all                              | \forall                                                 | $$\forall$$                                                 |
+| There exists                         | \exists                                                 | $$\exists$$                                                 |
+| There is not exist                   | \nexists                                                | $$\nexists$$                                                |
+| There exists exactly one             | \exist !                                                | $$\exists !$$                                               |
+| definition (is defined as)           | := <br>\equiv<br>:\Leftrightarrow                       | $$:=$$$$\equiv$$$$:\Leftrightarrow$$                        |
+| therefore                            | \therefore                                              | $$\therefore$$                                              |
+| because                              | \because                                                | $$\because$$                                                |
