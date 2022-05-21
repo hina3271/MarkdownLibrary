@@ -94,8 +94,8 @@ ___
 
 [Large expression](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Larger_expressions)
 
-<img src="img/Large_expression_1.png">
-<img src="img/Large_expression_2.png">
+<img src="img/Large_expression_1.PNG">
+<img src="img/Large_expression_2.PNG">
 
 ___
 
@@ -103,16 +103,23 @@ ___
 
 [Fractions](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
 
-<img src="img/Subscripts.png">
+<img src="img/Fractions.png">
+
 ___
 
 ## Matrices
 
 [Matrices](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
 
+<img src="img/Matrices.png">
+
 ___
 ## Multilines
 
+
 [Multilines](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
+
+<img src="img/Multilines.png">
+
 
 ___
