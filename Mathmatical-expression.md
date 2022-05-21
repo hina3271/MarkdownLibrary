@@ -22,7 +22,7 @@ ___
 
 [Typefaces](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Alphabets_and_typefaces)
 
-<img src="img/Typeface.png">
+<img src="img/Typeface.PNG">
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 [Alphabets](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Alphabets_and_typefaces)
 
-<img src="img/Alphabets.png">
+<img src="img/Alphabets.PNG">
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 [Brakets](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Brackets)
 
-<img src="img/Brakets.png">
+<img src="img/Brakets.PNG">
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 [Operators](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Arithmetic_operators)
 
-<img src="img/Arithmetic_operators.png">
+<img src="img/Arithmetic_operators.PNG">
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 [Equality, equivalence and similarity](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Equality,_equivalence_and_similarity)
 
-<img src="img/Equality,_equivalence_and_similarity.png">
+<img src="img/Equality,_equivalence_and_similarity.PNG">
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 [Comparision sign](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Comparison)
 
-<img src="img/Comparision.png">
+<img src="img/Comparision.PNG">
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 [Set theory](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Set_theory)
 
-<img src="img/Set_theory.png">
+<img src="img/Set_theory.PNG">
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 [Basic logic](https://en.wikipedia.org/wiki/List_of_logic_symbols)
 
-<img src="img/Basic_logic.png">
+<img src="img/Basic_logic.PNG">
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 [Subscripts, superscripts](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Larger_expressions)
 
-<img src="img/Subscripts.png">
+<img src="img/Subscripts.PNG">
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 [Fractions](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
 
-<img src="img/Fractions.png">
+<img src="img/Fractions.PNG">
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 [Matrices](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
 
-<img src="img/Matrices.png">
+<img src="img/Matrices.PNG">
 
 ___
 ## Multilines
@@ -119,7 +119,7 @@ ___
 
 [Multilines](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
 
-<img src="img/Multilines.png">
+<img src="img/Multilines.PNG">
 
 
 ___
