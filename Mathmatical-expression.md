@@ -38,11 +38,15 @@ ___
 
 [Brakets](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Brackets)
 
+<img src="img/Brakets.png">
+
 ___
 
 ## Operators 연산자
 
 [Operators](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Arithmetic_operators)
+
+<img src="img/Arithmetic_operators.png">
 
 ___
 
@@ -50,11 +54,15 @@ ___
 
 [Equality, equivalence and similarity](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Equality,_equivalence_and_similarity)
 
+<img src="img/Equality,_equivalence_and_similarity.png">
+
 ___
 
 ## Comparison
 
 [Comparision sign](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Comparison)
+
+<img src="img/Comparision.png">
 
 ___
 
@@ -62,11 +70,15 @@ ___
 
 [Set theory](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Set_theory)
 
+<img src="img/Set_theory.png">
+
 ___
 
 ## Basic logic
 
 [Basic logic](https://en.wikipedia.org/wiki/List_of_logic_symbols)
+
+<img src="img/Basic_logic.png">
 
 ___
 
@@ -74,11 +86,16 @@ ___
 
 [Subscripts, superscripts](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Larger_expressions)
 
+<img src="img/Subscripts.png">
+
 ___
 
 ## Large expression
 
 [Large expression](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Larger_expressions)
+
+<img src="img/Large_expression_1.png">
+<img src="img/Large_expression_2.png">
 
 ___
 
@@ -86,6 +103,7 @@ ___
 
 [Fractions](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Fractions,_matrices,_multilines)
 
+<img src="img/Subscripts.png">
 ___
 
 ## Matrices
